@@ -1,2 +1,2 @@
 # supermembot.github.io
-Хостинг мемного telegram бота
+Хостинг telegram бота для создания мемасов
